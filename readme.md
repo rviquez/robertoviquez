@@ -1,4 +1,4 @@
-# gaboesquivel
+# robertoviquez
 
 > Roberto Viquez
 
@@ -7,18 +7,19 @@
 As a `postinstall` script.
 
 ```bash
-npm install gaboesquivel
+npm install robertoviquez
 ```
 
 As a JSON object.
 
 ```js
-console.log(require('gaboesquivel'));
+console.log(require('robertoviquez'));
 ```
 
 # credits
 
 [@bevacqua](https://github.com/bevacqua/bevacqua)
+[@gaboesquivel](https://github.com/gaboesquivel/gaboesquivel)
 
 # license
 
